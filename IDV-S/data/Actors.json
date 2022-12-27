@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Alcemain","characterIndex":0,"characterName":"Alice2","classId":1,"equips":[3,1,2,3,0],"faceIndex":0,"faceName":"AliceNew","traits":[],"initialLevel":1,"maxLevel":99,"name":"Элис","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Naib","characterIndex":0,"characterName":"Naib","classId":2,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"NaibFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Наиб","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Servais","characterIndex":0,"characterName":"Servais","classId":3,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"ServaisFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Сервайс","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Norton","characterIndex":0,"characterName":"Norton","classId":4,"equips":[2,0,2,3,4],"faceIndex":0,"faceName":"NortonFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Нортон","nickname":"","note":"","profile":""}
+]
